@@ -17,7 +17,7 @@ This repo contains the files and scripts to install macOS on the Lenovo E460/E56
 | Touchpad       | Elan Touchpad                       |   ✅  |
 | USB Ports      | 3 x USB 3.0                         |   ✅  |
 | Storage        | Crucial SSD 2TB                     |   ✅  |
-| Wifi           | IntelAC 3165                        |   ✅  |
+| Wifi           | Intel AC 3165                       |   ✅  |
 | HDMI Port      | Full HD 60hz                        |   ✅  |
 | Card Reader    | 10/15 MB/s                          |   ✅  |
 
@@ -44,3 +44,4 @@ This repo contains the files and scripts to install macOS on the Lenovo E460/E56
 ## What's not working ⚠️
 
 - [ ] Fingerprint Reader
+- [ ] WI-FI with OpenCore Legacy Patcher 1.6
